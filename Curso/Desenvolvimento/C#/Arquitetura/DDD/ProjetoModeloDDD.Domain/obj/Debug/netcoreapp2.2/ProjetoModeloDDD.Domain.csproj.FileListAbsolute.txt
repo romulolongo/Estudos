@@ -1,0 +1,9 @@
+C:\Users\romul\Desktop\Estudo\Curso\Desenvolvimento\C#\Arquitetura\DDD\ProjetoModeloDDD.Domain\bin\Debug\netcoreapp2.2\ProjetoModeloDDD.Domain.deps.json
+C:\Users\romul\Desktop\Estudo\Curso\Desenvolvimento\C#\Arquitetura\DDD\ProjetoModeloDDD.Domain\bin\Debug\netcoreapp2.2\ProjetoModeloDDD.Domain.dll
+C:\Users\romul\Desktop\Estudo\Curso\Desenvolvimento\C#\Arquitetura\DDD\ProjetoModeloDDD.Domain\bin\Debug\netcoreapp2.2\ProjetoModeloDDD.Domain.pdb
+C:\Users\romul\Desktop\Estudo\Curso\Desenvolvimento\C#\Arquitetura\DDD\ProjetoModeloDDD.Domain\obj\Debug\netcoreapp2.2\ProjetoModeloDDD.Domain.csprojAssemblyReference.cache
+C:\Users\romul\Desktop\Estudo\Curso\Desenvolvimento\C#\Arquitetura\DDD\ProjetoModeloDDD.Domain\obj\Debug\netcoreapp2.2\ProjetoModeloDDD.Domain.csproj.CoreCompileInputs.cache
+C:\Users\romul\Desktop\Estudo\Curso\Desenvolvimento\C#\Arquitetura\DDD\ProjetoModeloDDD.Domain\obj\Debug\netcoreapp2.2\ProjetoModeloDDD.Domain.AssemblyInfoInputs.cache
+C:\Users\romul\Desktop\Estudo\Curso\Desenvolvimento\C#\Arquitetura\DDD\ProjetoModeloDDD.Domain\obj\Debug\netcoreapp2.2\ProjetoModeloDDD.Domain.AssemblyInfo.cs
+C:\Users\romul\Desktop\Estudo\Curso\Desenvolvimento\C#\Arquitetura\DDD\ProjetoModeloDDD.Domain\obj\Debug\netcoreapp2.2\ProjetoModeloDDD.Domain.dll
+C:\Users\romul\Desktop\Estudo\Curso\Desenvolvimento\C#\Arquitetura\DDD\ProjetoModeloDDD.Domain\obj\Debug\netcoreapp2.2\ProjetoModeloDDD.Domain.pdb

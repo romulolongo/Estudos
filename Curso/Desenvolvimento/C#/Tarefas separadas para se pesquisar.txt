@@ -1,0 +1,15 @@
+			Tarefas para se estudar posteriormente 
+
+
+1 - Arrumar um jeito de fazer com o que o migration do entity crie 
+	todos os campo tipos string como varchar;
+
+2 - Pesquisar sobre carregamentos EntityFramework;
+
+3 - Pesquisar diferença entere IEnumerable e ICollection;
+
+4 - Estudar sobre Polimorfismo
+
+5- Entender metodo Dispose();
+
+6- Aplicar conceito de UoW

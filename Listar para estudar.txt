@@ -1,0 +1,15 @@
+Coisas a ser estudar
+
+	1-SOLID
+	2- Designer pattern
+	3- Todos tipos de testes
+	4- Modelagem de Software em DDD
+	5- Mapeamento de Liguagem Obiqua
+	6- Banco NOSQL
+	7- utilização de filas
+	8- Conhecimento em arquestração/comunicação
+	9-  Docker
+	20- Monolitico vs microserviço
+	
+Curiosidade
+	Quando utilizar Scoped, Transiente e 

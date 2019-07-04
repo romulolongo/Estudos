@@ -1,0 +1,9 @@
+1- Adiconar Migration:  Add-Migration Nome
+
+2-Atuailizar Banco: Update-Database
+
+3-Remover Migration = Remove-Migration 
+
+4-Reverter Migration : Update-DataBase LastGoodMigration
+
+5-Gerar Script: Script-Migration

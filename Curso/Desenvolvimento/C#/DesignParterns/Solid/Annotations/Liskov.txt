@@ -1,0 +1,8 @@
+		LISKOV
+
+1- Há uma grande dificuldade de usar a herança devido aos problemas com as pré-condições(valor de entrada) que não
+	podem ser afroxadas e pós-condições(valor de saida) que não podem ser apertadas isso requer muito raciocinio
+	sempre que for escrever um metodo que esta sendo herdado ou reescrever um comportamento de um metodo.
+
+2- A alternativa de reaproveitar um comportamento sem fazer uso da herança é utilizar a composição, utilizando a 
+	composição você não precisa se preocupar com as pré e pós condições,

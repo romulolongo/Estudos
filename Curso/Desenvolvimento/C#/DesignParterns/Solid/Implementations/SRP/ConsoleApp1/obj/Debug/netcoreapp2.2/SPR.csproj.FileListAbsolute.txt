@@ -1,0 +1,11 @@
+C:\Users\romul\Desktop\Estudo\Curso\Solid\Implementations\SRP\ConsoleApp1\bin\Debug\netcoreapp2.2\SPR.deps.json
+C:\Users\romul\Desktop\Estudo\Curso\Solid\Implementations\SRP\ConsoleApp1\bin\Debug\netcoreapp2.2\SPR.runtimeconfig.json
+C:\Users\romul\Desktop\Estudo\Curso\Solid\Implementations\SRP\ConsoleApp1\bin\Debug\netcoreapp2.2\SPR.runtimeconfig.dev.json
+C:\Users\romul\Desktop\Estudo\Curso\Solid\Implementations\SRP\ConsoleApp1\bin\Debug\netcoreapp2.2\SPR.dll
+C:\Users\romul\Desktop\Estudo\Curso\Solid\Implementations\SRP\ConsoleApp1\bin\Debug\netcoreapp2.2\SPR.pdb
+C:\Users\romul\Desktop\Estudo\Curso\Solid\Implementations\SRP\ConsoleApp1\obj\Debug\netcoreapp2.2\SPR.csprojAssemblyReference.cache
+C:\Users\romul\Desktop\Estudo\Curso\Solid\Implementations\SRP\ConsoleApp1\obj\Debug\netcoreapp2.2\SPR.csproj.CoreCompileInputs.cache
+C:\Users\romul\Desktop\Estudo\Curso\Solid\Implementations\SRP\ConsoleApp1\obj\Debug\netcoreapp2.2\SPR.AssemblyInfoInputs.cache
+C:\Users\romul\Desktop\Estudo\Curso\Solid\Implementations\SRP\ConsoleApp1\obj\Debug\netcoreapp2.2\SPR.AssemblyInfo.cs
+C:\Users\romul\Desktop\Estudo\Curso\Solid\Implementations\SRP\ConsoleApp1\obj\Debug\netcoreapp2.2\SPR.dll
+C:\Users\romul\Desktop\Estudo\Curso\Solid\Implementations\SRP\ConsoleApp1\obj\Debug\netcoreapp2.2\SPR.pdb

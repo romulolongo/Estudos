@@ -1,0 +1,1 @@
+1- Até onde vai a responsabilidade da entidade(classe) e camada de negócio?

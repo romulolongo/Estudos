@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace ProjetoModeloDDD.Domain.Entities
+{
+    public class Product
+    {
+        public int ProductId { get; set; }
+        public string Name { get; set; }
+        public decimal Value { get; set; }
+        public bool IsAvailable { get; set; }
+        public int ClientId { get; set; }
+        public virtual Client Client { get; set; }
+    }
+}

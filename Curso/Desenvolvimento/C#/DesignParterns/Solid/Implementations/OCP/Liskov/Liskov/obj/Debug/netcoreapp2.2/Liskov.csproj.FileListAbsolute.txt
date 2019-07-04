@@ -1,0 +1,11 @@
+C:\Users\romul\Desktop\Estudo\Curso\Desenvolvimento\C#\DesignParterns\Solid\Implementations\OCP\Liskov\Liskov\bin\Debug\netcoreapp2.2\Liskov.deps.json
+C:\Users\romul\Desktop\Estudo\Curso\Desenvolvimento\C#\DesignParterns\Solid\Implementations\OCP\Liskov\Liskov\bin\Debug\netcoreapp2.2\Liskov.runtimeconfig.json
+C:\Users\romul\Desktop\Estudo\Curso\Desenvolvimento\C#\DesignParterns\Solid\Implementations\OCP\Liskov\Liskov\bin\Debug\netcoreapp2.2\Liskov.runtimeconfig.dev.json
+C:\Users\romul\Desktop\Estudo\Curso\Desenvolvimento\C#\DesignParterns\Solid\Implementations\OCP\Liskov\Liskov\bin\Debug\netcoreapp2.2\Liskov.dll
+C:\Users\romul\Desktop\Estudo\Curso\Desenvolvimento\C#\DesignParterns\Solid\Implementations\OCP\Liskov\Liskov\bin\Debug\netcoreapp2.2\Liskov.pdb
+C:\Users\romul\Desktop\Estudo\Curso\Desenvolvimento\C#\DesignParterns\Solid\Implementations\OCP\Liskov\Liskov\obj\Debug\netcoreapp2.2\Liskov.csprojAssemblyReference.cache
+C:\Users\romul\Desktop\Estudo\Curso\Desenvolvimento\C#\DesignParterns\Solid\Implementations\OCP\Liskov\Liskov\obj\Debug\netcoreapp2.2\Liskov.csproj.CoreCompileInputs.cache
+C:\Users\romul\Desktop\Estudo\Curso\Desenvolvimento\C#\DesignParterns\Solid\Implementations\OCP\Liskov\Liskov\obj\Debug\netcoreapp2.2\Liskov.AssemblyInfoInputs.cache
+C:\Users\romul\Desktop\Estudo\Curso\Desenvolvimento\C#\DesignParterns\Solid\Implementations\OCP\Liskov\Liskov\obj\Debug\netcoreapp2.2\Liskov.AssemblyInfo.cs
+C:\Users\romul\Desktop\Estudo\Curso\Desenvolvimento\C#\DesignParterns\Solid\Implementations\OCP\Liskov\Liskov\obj\Debug\netcoreapp2.2\Liskov.dll
+C:\Users\romul\Desktop\Estudo\Curso\Desenvolvimento\C#\DesignParterns\Solid\Implementations\OCP\Liskov\Liskov\obj\Debug\netcoreapp2.2\Liskov.pdb

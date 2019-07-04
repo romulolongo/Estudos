@@ -1,0 +1,11 @@
+	ENCAPSULAMENTO
+
+1-  Encapsulamento é escolher os dtelahes das implementaões dentro da classe, permitindo assim que outras classes
+	utilizam essa implementação sem saber como realmente funciona, diminui os impactos da mundaça com relação 
+	a suas dependentes;
+
+2- A classe não pode saber a regra de negocio da outra classe, caso ao contrário temos um problema de encapsulamento
+
+3- Lei de Demeter:  Diminuindo a quantidades de invocações ajuda a melhorar o comportamento e funcionamento internos 
+	da classes.
+
