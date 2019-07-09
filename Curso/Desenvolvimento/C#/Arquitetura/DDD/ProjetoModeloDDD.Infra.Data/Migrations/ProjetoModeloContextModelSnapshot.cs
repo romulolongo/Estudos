@@ -42,7 +42,7 @@ namespace ProjetoModeloDDD.Infra.Data.Migrations
 
                     b.HasKey("ClientId");
 
-                    b.ToTable("Usuario");
+                    b.ToTable("Client");
                 });
 
             modelBuilder.Entity("ProjetoModeloDDD.Domain.Entities.Product", b =>

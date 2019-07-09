@@ -1,44 +1,51 @@
-﻿using ProjetoModeloDDD.Domain.Interfaces;
+﻿using Microsoft.EntityFrameworkCore;
+using ProjetoModeloDDD.Domain.Interfaces.Repositories;
 using ProjetoModeloDDD.Infra.Data.Contexto;
 using System;
 using System.Collections.Generic;
-using System.Text;
+using System.Threading.Tasks;
 
 namespace ProjetoModeloDDD.Infra.Data.Repositories
 {
     public class RepositoryBase<TEntity> : IDisposable, IRepositoryBase<TEntity> where TEntity : class
     {
-        protected ProjetoModeloContext Db = new ProjetoModeloContext();
+        private readonly ProjetoModeloContext _dbContext;
 
-        public TEntity GetById(int id)
+        public RepositoryBase(ProjetoModeloContext dbContext)
         {
-            throw new NotImplementedException();
+            _dbContext = dbContext;
         }
 
-        public IEnumerable<TEntity> GetAll()
+        public async Task<TEntity> GetByIdAsync(int id)
         {
-            throw new NotImplementedException();
+            return await _dbContext.Set<TEntity>().FindAsync(id);
         }
 
-        public void Add(TEntity obj)
+        public async Task<IEnumerable<TEntity>> GetAllAsync()
         {
-            Db.Set<TEntity>().Add(obj);
-            Db.SaveChanges();
+            return await _dbContext.Set<TEntity>().ToListAsync();
         }
 
-        public void Update(TEntity obj)
+        public async Task InsertAsync(TEntity obj)
         {
-            throw new NotImplementedException();
+            await _dbContext.Set<TEntity>().AddAsync(obj);
+            await _dbContext.SaveChangesAsync();
         }
 
-        public void Remove(TEntity obj)
+        public async Task UpdateAsync(TEntity obj)
         {
-            throw new NotImplementedException();
+            _dbContext.Entry(obj).State = EntityState.Modified;
+            await _dbContext.SaveChangesAsync();
+        }
+
+        public async Task RemoveAsync(TEntity obj)
+        {
+            _dbContext.Set<TEntity>().Remove(obj);
+            await _dbContext.SaveChangesAsync();
         }
 
         public void Dispose()
         {
-            throw new NotImplementedException();
         }
     }
 }

@@ -13,3 +13,5 @@
 5- Entender metodo Dispose();
 
 6- Aplicar conceito de UoW
+
+7- Tentar gerar erros com datanotations padrões

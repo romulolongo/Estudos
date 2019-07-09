@@ -10,8 +10,8 @@ using ProjetoModeloDDD.Infra.Data.Contexto;
 namespace ProjetoModeloDDD.Infra.Data.Migrations
 {
     [DbContext(typeof(ProjetoModeloContext))]
-    [Migration("20190704102543_Product")]
-    partial class Product
+    [Migration("20190708140319_Client")]
+    partial class Client
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -44,7 +44,7 @@ namespace ProjetoModeloDDD.Infra.Data.Migrations
 
                     b.HasKey("ClientId");
 
-                    b.ToTable("Usuario");
+                    b.ToTable("Client");
                 });
 
             modelBuilder.Entity("ProjetoModeloDDD.Domain.Entities.Product", b =>

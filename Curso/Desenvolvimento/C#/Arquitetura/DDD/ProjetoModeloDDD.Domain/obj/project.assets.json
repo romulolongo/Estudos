@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\romul\\Desktop\\Estudo\\Curso\\Desenvolvimento\\C#\\Arquitetura\\DDD\\ProjetoModeloDDD.Domain\\ProjetoModeloDDD.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\romul\\Desktop\\Estudos\\Curso\\Desenvolvimento\\C#\\Arquitetura\\DDD\\ProjetoModeloDDD.Domain\\ProjetoModeloDDD.Domain.csproj",
       "projectName": "ProjetoModeloDDD.Domain",
-      "projectPath": "C:\\Users\\romul\\Desktop\\Estudo\\Curso\\Desenvolvimento\\C#\\Arquitetura\\DDD\\ProjetoModeloDDD.Domain\\ProjetoModeloDDD.Domain.csproj",
+      "projectPath": "C:\\Users\\romul\\Desktop\\Estudos\\Curso\\Desenvolvimento\\C#\\Arquitetura\\DDD\\ProjetoModeloDDD.Domain\\ProjetoModeloDDD.Domain.csproj",
       "packagesPath": "C:\\Users\\romul\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\romul\\Desktop\\Estudo\\Curso\\Desenvolvimento\\C#\\Arquitetura\\DDD\\ProjetoModeloDDD.Domain\\obj\\",
+      "outputPath": "C:\\Users\\romul\\Desktop\\Estudos\\Curso\\Desenvolvimento\\C#\\Arquitetura\\DDD\\ProjetoModeloDDD.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

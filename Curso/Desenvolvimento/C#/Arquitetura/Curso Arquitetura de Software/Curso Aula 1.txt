@@ -1,0 +1,80 @@
+			Curso arquitetura Eduardo Pires
+			
+	
+	1- Tipos de Arquitetos: 
+		1.1 - Arquiteto Corporativo
+			Apoia a estratégia de negocio como soluções de tecnologia.
+			Devem ser responsaveis sobre estratégia global sobre as capacidades de Tipos.
+			Devem garantir que a arquitetura de TI seja rentável.
+			
+		
+		1.2 - Arquiteto Solução 
+			Responsabilidade especial para serviços e funções de reusabilidade.
+			Alinham novas soluções para principios arquiteturais definidos em uma organização.
+			Equilibram requisitos funcionais e não-funcionais de acordo com as prioridades da empresa.
+			É ligados nas politicas e regulamentos	
+			
+		1.3 - Arquiteto de Negócio
+			Trabalha proximo ao negócio, entende como funciona a organização detalhadamente.
+			Estão presentes na modelagem de processo da organização.
+			Dão suporte na definição de arquitetura, realizando analise de requisito de soluções
+				novas ou existentes.
+			
+		1.4 - Arquiteto de Software
+			Trabalha com a estrutra de design de software.
+			Foco é o projeto.
+			Tem que ter profundo conhecimento em programação, frameworks, padrões e modelagem técnica.
+			
+		1.5- Outros arquitetos:
+			Arquiteto de Sistema
+			Arquiteto de dados
+			Arquiteto de SOA(integração)
+			Arquiteto de Infraestrutura
+			
+
+	2 - Responsabilidade de um arquiteto de software(mais conhecido)
+		2.1 - Objetivo principal é projetar soluções compatives com os requisitos atuais da corporação
+			que tenha flexibilidade suficiente para comportar mudanças futuras ou novos requisitos 
+			resultantes de sua evolução ao longo do tempo.
+			
+		2.2 - Responsavél pela qualidade tecnica do entregável, atuar no apoio técnico de toda equipe
+			eajufar nas decisões necessárias.
+			
+	3- Requesitos Técnico e Pessoal para arquiteto de software
+				Tecnico
+		3.1 - Profundo conhecimento em programação
+		
+		3.2 -  Dominar amplamente alguma plataforma de desenvolvimento, frameworks, ferramentas e 
+			modelagem técnica
+		
+		3.3 - Conhecer abordagens de arquitetura e padrões para soluções de problemas.
+		
+		3.4 - Conhecer técnicas de design de código e qualidade para gerar uma boa cobertura de testes
+			
+			Pessoais
+		3.5 - Experiência (Por estudos também)  
+		
+		3.6 - Perfil de Liderança  (Respeito da Equipe, conhecimento, capacidade = reconhecimento)
+		
+		3.7 - Comunicação
+		
+		3.8 - Proatividade
+		
+		3.9 - Iniciativa
+		
+		3.10 - Humildade
+		
+		3.11 - Tomar boas decisões (maturidade)
+		
+		3.12 - Estar abertas para criticas e sugestões
+		.
+		3.13 - Profundo pesquisador 
+		
+		3.14 - Ser didático
+		
+		3.15- Saber delegar tarefas
+		
+		
+			
+
+

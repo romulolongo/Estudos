@@ -9,9 +9,8 @@ namespace ProjetoModeloDDD.Infra.Data.Contexto
     public class ProjetoModeloContext : DbContext
     {
         public ProjetoModeloContext(DbContextOptions<ProjetoModeloContext> options)
-            : base(options)
+            :base(options)
         {
-
         }
 
         public DbSet<Client> Clients { get; set; }

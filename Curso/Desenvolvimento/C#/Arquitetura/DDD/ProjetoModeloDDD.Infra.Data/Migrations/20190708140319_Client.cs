@@ -9,7 +9,7 @@ namespace ProjetoModeloDDD.Infra.Data.Migrations
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.CreateTable(
-                name: "Usuario",
+                name: "Client",
                 columns: table => new
                 {
                     ClientId = table.Column<int>(nullable: false)
@@ -22,7 +22,7 @@ namespace ProjetoModeloDDD.Infra.Data.Migrations
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Usuario", x => x.ClientId);
+                    table.PrimaryKey("PK_Client", x => x.ClientId);
                 });
 
             migrationBuilder.CreateTable(
@@ -40,9 +40,9 @@ namespace ProjetoModeloDDD.Infra.Data.Migrations
                 {
                     table.PrimaryKey("PK_Product", x => x.ProductId);
                     table.ForeignKey(
-                        name: "FK_Product_Usuario_ClientId",
+                        name: "FK_Product_Client_ClientId",
                         column: x => x.ClientId,
-                        principalTable: "Usuario",
+                        principalTable: "Client",
                         principalColumn: "ClientId",
                         onDelete: ReferentialAction.Cascade);
                 });
@@ -59,7 +59,7 @@ namespace ProjetoModeloDDD.Infra.Data.Migrations
                 name: "Product");
 
             migrationBuilder.DropTable(
-                name: "Usuario");
+                name: "Client");
         }
     }
 }

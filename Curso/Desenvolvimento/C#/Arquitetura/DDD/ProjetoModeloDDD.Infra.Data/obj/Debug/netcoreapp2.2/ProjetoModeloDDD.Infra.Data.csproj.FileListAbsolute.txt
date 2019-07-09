@@ -10,3 +10,15 @@ C:\Users\romul\Desktop\Estudo\Curso\Desenvolvimento\C#\Arquitetura\DDD\ProjetoMo
 C:\Users\romul\Desktop\Estudo\Curso\Desenvolvimento\C#\Arquitetura\DDD\ProjetoModeloDDD.Infra.Data\obj\Debug\netcoreapp2.2\ProjetoModeloDDD.Infra.Data.csproj.CopyComplete
 C:\Users\romul\Desktop\Estudo\Curso\Desenvolvimento\C#\Arquitetura\DDD\ProjetoModeloDDD.Infra.Data\obj\Debug\netcoreapp2.2\ProjetoModeloDDD.Infra.Data.dll
 C:\Users\romul\Desktop\Estudo\Curso\Desenvolvimento\C#\Arquitetura\DDD\ProjetoModeloDDD.Infra.Data\obj\Debug\netcoreapp2.2\ProjetoModeloDDD.Infra.Data.pdb
+C:\Users\romul\Desktop\Estudos\Curso\Desenvolvimento\C#\Arquitetura\DDD\ProjetoModeloDDD.Infra.Data\obj\Debug\netcoreapp2.2\ProjetoModeloDDD.Infra.Data.csprojAssemblyReference.cache
+C:\Users\romul\Desktop\Estudos\Curso\Desenvolvimento\C#\Arquitetura\DDD\ProjetoModeloDDD.Infra.Data\obj\Debug\netcoreapp2.2\ProjetoModeloDDD.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\romul\Desktop\Estudos\Curso\Desenvolvimento\C#\Arquitetura\DDD\ProjetoModeloDDD.Infra.Data\obj\Debug\netcoreapp2.2\ProjetoModeloDDD.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\romul\Desktop\Estudos\Curso\Desenvolvimento\C#\Arquitetura\DDD\ProjetoModeloDDD.Infra.Data\obj\Debug\netcoreapp2.2\ProjetoModeloDDD.Infra.Data.AssemblyInfo.cs
+C:\Users\romul\Desktop\Estudos\Curso\Desenvolvimento\C#\Arquitetura\DDD\ProjetoModeloDDD.Infra.Data\obj\Debug\netcoreapp2.2\ProjetoModeloDDD.Infra.Data.dll
+C:\Users\romul\Desktop\Estudos\Curso\Desenvolvimento\C#\Arquitetura\DDD\ProjetoModeloDDD.Infra.Data\obj\Debug\netcoreapp2.2\ProjetoModeloDDD.Infra.Data.pdb
+C:\Users\romul\Desktop\Estudos\Curso\Desenvolvimento\C#\Arquitetura\DDD\ProjetoModeloDDD.Infra.Data\bin\Debug\netcoreapp2.2\ProjetoModeloDDD.Infra.Data.deps.json
+C:\Users\romul\Desktop\Estudos\Curso\Desenvolvimento\C#\Arquitetura\DDD\ProjetoModeloDDD.Infra.Data\bin\Debug\netcoreapp2.2\ProjetoModeloDDD.Infra.Data.dll
+C:\Users\romul\Desktop\Estudos\Curso\Desenvolvimento\C#\Arquitetura\DDD\ProjetoModeloDDD.Infra.Data\bin\Debug\netcoreapp2.2\ProjetoModeloDDD.Infra.Data.pdb
+C:\Users\romul\Desktop\Estudos\Curso\Desenvolvimento\C#\Arquitetura\DDD\ProjetoModeloDDD.Infra.Data\bin\Debug\netcoreapp2.2\ProjetoModeloDDD.Domain.dll
+C:\Users\romul\Desktop\Estudos\Curso\Desenvolvimento\C#\Arquitetura\DDD\ProjetoModeloDDD.Infra.Data\bin\Debug\netcoreapp2.2\ProjetoModeloDDD.Domain.pdb
+C:\Users\romul\Desktop\Estudos\Curso\Desenvolvimento\C#\Arquitetura\DDD\ProjetoModeloDDD.Infra.Data\obj\Debug\netcoreapp2.2\ProjetoModeloDDD.Infra.Data.csproj.CopyComplete

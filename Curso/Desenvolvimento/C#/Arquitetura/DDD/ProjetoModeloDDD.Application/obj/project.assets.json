@@ -207,6 +207,16 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "ProjetoModeloDDD.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.2",
+        "compile": {
+          "bin/placeholder/ProjetoModeloDDD.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ProjetoModeloDDD.Domain.dll": {}
+        }
       }
     }
   },
@@ -678,11 +688,17 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "ProjetoModeloDDD.Domain/1.0.0": {
+      "type": "project",
+      "path": "../ProjetoModeloDDD.Domain/ProjetoModeloDDD.Domain.csproj",
+      "msbuildProject": "../ProjetoModeloDDD.Domain/ProjetoModeloDDD.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
-      "Microsoft.NETCore.App >= 2.2.0"
+      "Microsoft.NETCore.App >= 2.2.0",
+      "ProjetoModeloDDD.Domain >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -692,11 +708,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\romul\\Desktop\\Estudo\\Curso\\Desenvolvimento\\C#\\Arquitetura\\DDD\\ProjetoModeloDDD.Application\\ProjetoModeloDDD.Application.csproj",
+      "projectUniqueName": "C:\\Users\\romul\\Desktop\\Estudos\\Curso\\Desenvolvimento\\C#\\Arquitetura\\DDD\\ProjetoModeloDDD.Application\\ProjetoModeloDDD.Application.csproj",
       "projectName": "ProjetoModeloDDD.Application",
-      "projectPath": "C:\\Users\\romul\\Desktop\\Estudo\\Curso\\Desenvolvimento\\C#\\Arquitetura\\DDD\\ProjetoModeloDDD.Application\\ProjetoModeloDDD.Application.csproj",
+      "projectPath": "C:\\Users\\romul\\Desktop\\Estudos\\Curso\\Desenvolvimento\\C#\\Arquitetura\\DDD\\ProjetoModeloDDD.Application\\ProjetoModeloDDD.Application.csproj",
       "packagesPath": "C:\\Users\\romul\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\romul\\Desktop\\Estudo\\Curso\\Desenvolvimento\\C#\\Arquitetura\\DDD\\ProjetoModeloDDD.Application\\obj\\",
+      "outputPath": "C:\\Users\\romul\\Desktop\\Estudos\\Curso\\Desenvolvimento\\C#\\Arquitetura\\DDD\\ProjetoModeloDDD.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -714,7 +730,11 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\romul\\Desktop\\Estudos\\Curso\\Desenvolvimento\\C#\\Arquitetura\\DDD\\ProjetoModeloDDD.Domain\\ProjetoModeloDDD.Domain.csproj": {
+              "projectPath": "C:\\Users\\romul\\Desktop\\Estudos\\Curso\\Desenvolvimento\\C#\\Arquitetura\\DDD\\ProjetoModeloDDD.Domain\\ProjetoModeloDDD.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

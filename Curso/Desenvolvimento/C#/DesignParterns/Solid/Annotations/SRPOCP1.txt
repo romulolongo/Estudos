@@ -1,0 +1,23 @@
+	SPR
+
+
+1- Classe deve ter somente uma responsabilidade;
+2- Classe não coesa é a classe que contem responsabilidades que não são suas;
+3- Acoplamento referese a dependencia da classe com outras classe;
+
+
+	OCP
+1- 1-Open, 2-Closed e 3-Dependecy inversion principle (1- Aberto para extensão, 
+	2- Fechado para alteração, 3- DIP Ideia de depender da abstrações de classes estaveis  ;
+	
+2- OCP permite escrevermos classes mais facilmente extensiveis(abertas para extensões
+	Fica facil mudar o comportamento da classe atual, passando as implementações 
+	concretas das abstrações;
+
+3-	DIP diz que devemos depender de abstrações de classes estaveis( classe depende da 
+	abstração de outra classe que é mais estaveis) com isso diminuimos o risco de acomplamento
+
+4- 	OCP e DIP se relacionam?:  para conseguirmos escrever classes apertas para extensões iremos 
+	precisar do DIP
+	
+

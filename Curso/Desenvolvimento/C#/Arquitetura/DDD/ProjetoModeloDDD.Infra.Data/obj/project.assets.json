@@ -3488,11 +3488,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\romul\\Desktop\\Estudo\\Curso\\Desenvolvimento\\C#\\Arquitetura\\DDD\\ProjetoModeloDDD.Infra.Data\\ProjetoModeloDDD.Infra.Data.csproj",
+      "projectUniqueName": "C:\\Users\\romul\\Desktop\\Estudos\\Curso\\Desenvolvimento\\C#\\Arquitetura\\DDD\\ProjetoModeloDDD.Infra.Data\\ProjetoModeloDDD.Infra.Data.csproj",
       "projectName": "ProjetoModeloDDD.Infra.Data",
-      "projectPath": "C:\\Users\\romul\\Desktop\\Estudo\\Curso\\Desenvolvimento\\C#\\Arquitetura\\DDD\\ProjetoModeloDDD.Infra.Data\\ProjetoModeloDDD.Infra.Data.csproj",
+      "projectPath": "C:\\Users\\romul\\Desktop\\Estudos\\Curso\\Desenvolvimento\\C#\\Arquitetura\\DDD\\ProjetoModeloDDD.Infra.Data\\ProjetoModeloDDD.Infra.Data.csproj",
       "packagesPath": "C:\\Users\\romul\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\romul\\Desktop\\Estudo\\Curso\\Desenvolvimento\\C#\\Arquitetura\\DDD\\ProjetoModeloDDD.Infra.Data\\obj\\",
+      "outputPath": "C:\\Users\\romul\\Desktop\\Estudos\\Curso\\Desenvolvimento\\C#\\Arquitetura\\DDD\\ProjetoModeloDDD.Infra.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3511,8 +3511,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\romul\\Desktop\\Estudo\\Curso\\Desenvolvimento\\C#\\Arquitetura\\DDD\\ProjetoModeloDDD.Domain\\ProjetoModeloDDD.Domain.csproj": {
-              "projectPath": "C:\\Users\\romul\\Desktop\\Estudo\\Curso\\Desenvolvimento\\C#\\Arquitetura\\DDD\\ProjetoModeloDDD.Domain\\ProjetoModeloDDD.Domain.csproj"
+            "C:\\Users\\romul\\Desktop\\Estudos\\Curso\\Desenvolvimento\\C#\\Arquitetura\\DDD\\ProjetoModeloDDD.Domain\\ProjetoModeloDDD.Domain.csproj": {
+              "projectPath": "C:\\Users\\romul\\Desktop\\Estudos\\Curso\\Desenvolvimento\\C#\\Arquitetura\\DDD\\ProjetoModeloDDD.Domain\\ProjetoModeloDDD.Domain.csproj"
             }
           }
         }

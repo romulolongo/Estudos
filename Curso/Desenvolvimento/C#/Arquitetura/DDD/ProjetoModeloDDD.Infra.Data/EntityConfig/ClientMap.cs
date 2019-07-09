@@ -9,7 +9,7 @@ namespace ProjetoModeloDDD.Infra.Data.EntityConfig
 
         public void Configure(EntityTypeBuilder<Client> builder)
         {
-            builder.ToTable("Usuario");
+            builder.ToTable("Client");
 
             builder.HasKey(c => c.ClientId);
 

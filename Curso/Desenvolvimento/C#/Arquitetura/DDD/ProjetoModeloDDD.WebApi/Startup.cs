@@ -1,10 +1,18 @@
-﻿using Microsoft.AspNetCore.Builder;
+﻿using AutoMapper;
+using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using ProjetoModeloDDD.Application;
+using ProjetoModeloDDD.Application.Interface;
+using ProjetoModeloDDD.Domain.Interfaces.Repositories;
+using ProjetoModeloDDD.Domain.Interfaces.Services;
+using ProjetoModeloDDD.Domain.Services;
 using ProjetoModeloDDD.Infra.Data.Contexto;
+using ProjetoModeloDDD.Infra.Data.Repositories;
+using ProjetoModeloDDD.WebApi.AutoMapper;
 
 namespace ProjetoModeloDDD.WebApi
 {
@@ -26,6 +34,23 @@ namespace ProjetoModeloDDD.WebApi
             {
                 options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection"));
             });
+
+            var mappingConfig = new MapperConfiguration(mc =>
+            {
+                mc.AddProfile(new ViewModelToDomainMappingProfile());
+                mc.AddProfile(new DomainToViewModelMappingProfile());
+            });
+
+            IMapper mapper = mappingConfig.CreateMapper();
+
+            services.AddSingleton(mapper);
+
+            services.AddScoped<IClientRepository, ClientRepository>();
+            services.AddScoped<IProductRepository, ProductRepository>();
+            services.AddScoped<IClientService, ClientService>();
+            services.AddScoped<IProductService, ProductService>();
+            services.AddScoped<IClientAppService, ClientAppService>();
+            services.AddScoped<IProductAppService, ProductAppService>();
 
             services.AddMvc();
         }
